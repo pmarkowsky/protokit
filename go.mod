@@ -1,9 +1,10 @@
-module github.com/pseudomuto/protokit
+module github.com/pmarkowsky/protokit
 
 go 1.17
 
 require (
 	github.com/golang/protobuf v1.5.4
+	github.com/pseudomuto/protokit v0.2.1
 	github.com/stretchr/testify v1.2.1
 	google.golang.org/genproto v0.0.0-20180427144745-86e600f69ee4
 )
